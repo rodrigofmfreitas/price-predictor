@@ -3,7 +3,7 @@
 Projeto tenta estipular a precificação de uma entrada no Airbnb com base em um modelo preditivo, <br>
 usando um dataset retirado de: https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro <br>
 
-**Linguagem utilizada:** Python
+**Linguagem utilizada:** Python<br>
 **Principais bibliotecas utilizadas:** Pandas, Matplotlib, Seaborn e Scikit-learn.
 
 ## Importação e tratamento inicial
