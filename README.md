@@ -35,8 +35,8 @@ a fim de ficar com os dados aparentemente relevantes, a saber:<br>
 - year; e
 - month.
 
-Após o tratamento de colunas, verifiquei a quantidade de linhas que possuíam algum valor NaN<br>
-por ser um valor muito pequeno comparado ao volume de dados disponível, decidi por eliminar<br>
+Após o tratamento de colunas, verifiquei a quantidade de linhas que possuíam algum valor NaN.<br>
+Por ser um valor muito pequeno comparado ao volume de dados disponível, decidi por eliminar<br>
 tais linhas.
 
 Depois, foi necessário transformar os valores das colunas "price" e "extra_people" para o<br>
