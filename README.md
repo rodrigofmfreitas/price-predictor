@@ -69,15 +69,15 @@ para o modelo final ser o mais preciso possível, sem incorrer em overfitting.
 
 **Métricas utilizadas:**
 - R²; e
-- MSE (Mean Squared Error).
+- RMSE (Root-Mean-Square Error).
 
 
 **Melhor resultado:**
 - ExtraTrees
 
 **Métricas:**
-- R²: 96.91%
-- MSE: 46.09
+- R²: 96.92%
+- RMSE: 46.03
 
 ## Conclusões
 Com um resultado satisfatório de aproximadamente 97% de precisão, considerei desnecessario<br>
