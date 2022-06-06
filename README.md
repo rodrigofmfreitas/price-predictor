@@ -6,7 +6,7 @@ usando um dataset retirado de: https://www.kaggle.com/allanbruno/airbnb-rio-de-j
 **Linguagem utilizada:** Python
 **Principais bibliotecas utilizadas:** Pandas, Matplotlib, Seaborn e Scikit-learn.
 
-##Importação e tratamento inicial
+## Importação e tratamento inicial
 Os dados estavam em múltiplos arquivos, então fez-se necessária a utilização de um iterador<br>
 para leitura de todos eles, já adicionando colunas referentes ao mês e ano nos quais as entradas<br>
 foram adicionadas ao Airbnb.<br>
